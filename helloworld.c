@@ -1,4 +1,7 @@
-Hello CCA AP-CSP Students.  Learn GIT it will make your life better!
+#include <stdio.h>
 
-Mr. Whitehouse
-Date: Dec 11
+int main()
+{
+	printf("Hello World!\n CCA\n APCSP\n");
+	return 0;
+}
