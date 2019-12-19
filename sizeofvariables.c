@@ -5,8 +5,9 @@ int main()
  int a = 545;
  char b = 'a';
  float c = 5.245;
- double d = 1.45327
+ double d = 1.45327;
  unsigned int e = 14;
+
  short int f = 16;
 
  printf("int a value: %d and size: %d bytes\n", a, sizeof(a));
